@@ -75,5 +75,3 @@ create trigger agg after delete or update or insert on stazione for each row exe
 
 
 
-
-
