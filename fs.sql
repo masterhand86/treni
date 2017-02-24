@@ -65,6 +65,8 @@ language plpgsql;
 
 create trigger agg after delete or update or insert on stazione for each row execute procedure agg();
 
+ 
+
 
 
 
